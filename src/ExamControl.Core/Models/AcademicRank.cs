@@ -7,7 +7,7 @@ using System.Text;
 
 namespace ExamControl.Models
 {
-    public class AcademicRank: FullAuditedEntity
+    public class AcademicRank : FullAuditedEntity
     {
 
         public AcademicRank()
